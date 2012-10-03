@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player version="1" model="Ogre.mesh" material="" scale="5 5 5" orientation="1 0 0 0" mass="200" velocity="60" run_velocity="140" jump_velocity="150000" inertia="100 100 100" center_of_mass="0 0 0" weapon="weapon_rock1">
+	
+</player>

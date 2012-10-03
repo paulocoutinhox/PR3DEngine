@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map player_start="0 0 0" player_start_orientation="1 0 0 0" skybox="Sky/SkyPlane" min_world_size="-10000 -10000 -10000" max_world_size="10000 10000 10000">
+	<object mass="650" inertia="2500 2500 2500" center_of_mass="0 0 0" collision="fixed" type="static_mesh" castshadows="true" meshfile="tower.01.mesh" name="tower#25" orientation="-0.810179 0 0.586183 0" position="281.575 17.0963 -268.644" scale="1 1 1" material=""></object>	
+</map>

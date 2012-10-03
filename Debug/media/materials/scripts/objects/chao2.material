@@ -1,0 +1,34 @@
+
+material chao/grama
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.8 0.8 0.8 1
+
+			texture_unit
+			{
+				texture grama1.jpg -1
+			}
+		}
+
+	}
+
+}
+
+material 01 - Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+			specular 0.898039 0.898039 0.898039 1 0
+		}
+
+	}
+
+}

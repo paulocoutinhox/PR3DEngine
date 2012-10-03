@@ -1,0 +1,19 @@
+
+material mapa1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.8 0.8 0.8 1
+
+			texture_unit
+			{
+				texture mapa1_textura.jpg -1
+			}
+		}
+
+	}
+
+}

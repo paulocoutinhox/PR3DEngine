@@ -1,0 +1,38 @@
+21:10:24: Creating resource group General
+21:10:24: Creating resource group Internal
+21:10:24: Creating resource group Autodetect
+21:10:24: SceneManagerFactory for type 'DefaultSceneManager' registered.
+21:10:24: Registering ResourceManager for type Material
+21:10:24: Registering ResourceManager for type Mesh
+21:10:24: Registering ResourceManager for type Skeleton
+21:10:24: MovableObjectFactory for type 'ParticleSystem' registered.
+21:10:24: OverlayElementFactory for type Panel registered.
+21:10:24: OverlayElementFactory for type BorderPanel registered.
+21:10:24: OverlayElementFactory for type TextArea registered.
+21:10:24: Registering ResourceManager for type Font
+21:10:24: ArchiveFactory for archive type FileSystem registered.
+21:10:24: ArchiveFactory for archive type Zip registered.
+21:10:24: FreeImage version: 3.10.0
+21:10:24: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+21:10:24: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+21:10:24: DDS codec registering
+21:10:24: Registering ResourceManager for type HighLevelGpuProgram
+21:10:24: Registering ResourceManager for type Compositor
+21:10:24: MovableObjectFactory for type 'Entity' registered.
+21:10:24: MovableObjectFactory for type 'Light' registered.
+21:10:24: MovableObjectFactory for type 'BillboardSet' registered.
+21:10:24: MovableObjectFactory for type 'ManualObject' registered.
+21:10:24: MovableObjectFactory for type 'BillboardChain' registered.
+21:10:24: MovableObjectFactory for type 'RibbonTrail' registered.
+21:10:24: OGRE EXCEPTION(6:FileNotFoundException): 'plugins.cfg' file not found! in ConfigFile::load at ..\src\OgreConfigFile.cpp (line 84)
+21:10:24: plugins.cfg not found, automatic plugin loading disabled.
+21:10:24: *-*-* OGRE Initialising
+21:10:24: *-*-* Version 1.6.4 (Shoggoth)
+21:10:24: OGRE EXCEPTION(6:FileNotFoundException): 'resources.cfg' file not found! in ConfigFile::load at ..\src\OgreConfigFile.cpp (line 84)
+21:15:30: *-*-* OGRE Shutdown
+21:15:30: Unregistering ResourceManager for type Compositor
+21:15:30: Unregistering ResourceManager for type Font
+21:15:30: Unregistering ResourceManager for type Skeleton
+21:15:30: Unregistering ResourceManager for type Mesh
+21:15:30: Unregistering ResourceManager for type HighLevelGpuProgram
+21:15:30: Unregistering ResourceManager for type Material

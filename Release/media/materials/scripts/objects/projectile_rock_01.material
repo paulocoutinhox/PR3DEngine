@@ -1,0 +1,13 @@
+material projectile_rock_01
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture projectile_rock_01.png
+			}
+		}
+	}
+}

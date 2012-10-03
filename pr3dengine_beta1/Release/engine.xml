@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine title="PR3DEngine" version="1" config_screen="true" resource_path="">
+	<map name="map1"></map>
+	<player name="player1"></player>
+	<camera near_clip_distance="0.3" far_clip_distance="5000"></camera>
+</engine>

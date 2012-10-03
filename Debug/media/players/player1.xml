@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player version="1" model="Ogre.mesh" material="" scale="5 5 5" orientation="1 0 0 0" mass="500" velocity="60" velocity_running="140" inertia="0 0 0" center_of_mass="0 0 0">
+	
+</player>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+	<weapon mass="650" inertia="2500 2500 2500" center_of_mass="0 0 0" collision="fixed" castshadows="true" meshfile="Barrel.mesh" material="RustyBarrel" name="weapon_barrel1" scale="1 1 1" velocity="600" distance_from_player="0 30 10" move_direction="0 0 1" shoot_interval="1"></weapon>
+</weapons>

@@ -1,0 +1,217 @@
+
+material humano_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0 0 0 1
+
+			texture_unit
+			{
+				texture humano_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_4.tga -1
+			}
+		}
+
+	}
+
+}
+
+material humano_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture humano_7.tga -1
+			}
+		}
+
+	}
+
+}

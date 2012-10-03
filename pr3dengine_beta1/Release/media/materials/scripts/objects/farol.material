@@ -1,0 +1,343 @@
+
+material Material_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_9.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_18.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_8.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_1.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_11.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_16.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0 0 0 1
+
+			texture_unit
+			{
+				texture farol_16.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_14.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_5.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_13.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_12.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_17.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_4.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_3.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_7.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_6.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_15.tga -1
+			}
+		}
+
+	}
+
+}
+
+material Material_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture farol_10.tga -1
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,34 @@
+material Sky/SkyPlane
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			
+			texture_unit
+			{
+				cubic_texture spacesky.jpg combinedUV
+			}
+		}
+	}
+}
+
+material Sky/CloudySky
+{
+   technique
+   {
+      pass
+      {
+         lighting off
+         
+         texture_unit
+         {
+            cubic_texture spacesky.jpg combinedUVW
+            tex_address_mode clamp
+            env_map cubic_reflection
+         }
+		 
+      }
+   }
+}

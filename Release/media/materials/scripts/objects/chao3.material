@@ -1,0 +1,16 @@
+
+material chao3/grama
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture grama1.jpg -1
+			}
+		}
+
+	}
+
+}

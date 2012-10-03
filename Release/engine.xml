@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine title="PR3DEngine" version="1" config_screen="true" resource_path="" gravity="0 -9.8 0" show_bounding_box="false">
+	<map name="map1"></map>
+	<player name="player1"></player>
+	<camera zoom="300" modifier="0 180 0" near_clip_distance="0.3" far_clip_distance="5000"></camera>
+	<viewport shadown="true" skies="true" overlays="true"></viewport>
+</engine>

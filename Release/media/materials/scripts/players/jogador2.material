@@ -1,0 +1,528 @@
+
+material jogador2_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_13.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0 0 0 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_2.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_8.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_9.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_9.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_14.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_14.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_14.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_22.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 1 0.780392 0 1
+
+			texture_unit
+			{
+				texture jogador2_19.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_19
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_14.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_20
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_20.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_21
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 1 1 1 0.788557
+			specular 0 0 0 0.788557 0
+
+			texture_unit
+			{
+				texture jogador2_21.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_23
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 1 1 1 0.749992
+			specular 0 0 0 0.749992 0
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
+
+material jogador2_28
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+
+			texture_unit
+			{
+				texture jogador2_26.tga -1
+			}
+		}
+
+	}
+
+}
